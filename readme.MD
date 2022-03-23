@@ -1,0 +1,1 @@
+Página de tributo feita com conceitos básicos de HTML5 e CSS3, feita para o cantor Raul Seixas, sem nenhuma intenção de violar direitos de imagem ou direitos autorais. Feita apenas para demonstrar conhecimento. 
